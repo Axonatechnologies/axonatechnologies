@@ -30,6 +30,7 @@ Each action—digital or physical—is validated through cryptographic proofs, t
 * [Axona DApp Console](https://axona.tech/dapp)
 * [Axona Documentation](https://axona.tech/docs)
 * [Axona GitHub](https://github.com/Axonatechnologies)
+* [Axona Twitter](https://x.com/Axonatechnology)
 
 ---
 
@@ -94,6 +95,7 @@ The Axona network architecture enables verifiable automation through a decentral
 | 🌐 **Website**        | [axona.tech](https://axona.tech)        | Main website and information         |
 | 💻 **DApp Console**   | [axona.tech/dapp](https://axona.tech/dapp) | Web application for task management   |
 | 📚 **Documentation**  | [axona.tech/docs](https://axona.tech/docs) | Technical docs and guides            |
+| 🐦 **Twitter**        | [@Axonatechnology](https://x.com/Axonatechnology) | Follow us on X (Twitter)             |
 | 💬 **Contact**        | [info@axona.tech](mailto:info@axona.tech) | General inquiries                    |
 
 ---
@@ -126,6 +128,7 @@ We believe that the future of automation lies in **verifiability**, where trust 
 * 🌐 **Website**: [axona.tech](https://axona.tech)
 * 💻 **DApp Console**: [axona.tech/dapp](https://axona.tech/dapp)
 * 📚 **Documentation**: [axona.tech/docs](https://axona.tech/docs)
+* 🐦 **Twitter**: [@Axonatechnology](https://x.com/Axonatechnology)
 * 📧 **Email**: [info@axona.tech](mailto:info@axona.tech)
 * 💻 **GitHub**: [@Axonatechnologies](https://github.com/Axonatechnologies)
 

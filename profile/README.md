@@ -29,6 +29,7 @@ We enable autonomous agents, IoT nodes, and physical robots to execute and verif
 * 🌐 [Website](https://axona.tech)
 * 💻 [DApp](https://axona.tech/dapp)
 * 📚 [Documentation](https://axona.tech/docs)
+* 🐦 [Twitter](https://x.com/Axonatechnology)
 * 💬 [Contact](mailto:info@axona.tech)
 
 ## About
