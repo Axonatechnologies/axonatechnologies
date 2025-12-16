@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Axona technologies.jpg" alt="Axona Technologies" width="400">
+</p>
+
 # 🤖 Axona Technologies
 
 **Verifiable Automation & Robotics Network**  
