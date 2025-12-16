@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Axona technologies.jpg" alt="Axona Technologies" width="400">
+  <img src="assets/banner.jpg" alt="Axona Technologies Banner" width="600">
 </p>
 
 # 🤖 Axona Technologies
